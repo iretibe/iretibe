@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on https://github.com/iretibe/RestaurantManager which is a secured full stack app and will also have both WPF desktop app and Xamarin mobile app
+- 🔭 I’m currently upgrading my skills
 - 🌱 I’m currently learning .Net Microservices and Azure DevOps
 - 👯 I’m looking to collaborate on any .Net projects
 - 🤔 I’m looking for help with Open Source projects
