@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any .Net projects
 - 🤔 I’m looking for help with Open Source projects
 - 💬 Ask me about WPF, Xamarin, C#, .Net, SQL Server, OAuth2 and OpenId Connect, SQL Server Reporting Services and Angular
-- 📫 How to reach me: somady12@gmail.com
+- 📫 How to reach me: somady12@gmail.com, yessouf2009@yahoo.fr
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Goals are good for setting a direction, but systems are best for making progress
 
