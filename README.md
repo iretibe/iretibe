@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Somad Yessoufou
-### Full-Stack .NET & AI Developer
+### Full-Stack .NET & AI Developer (Backend Focus)
 
 - 🔭 Currently building AI-driven .NET apps using Blazor, MVC, and Azure
 - 🌱 Exploring practical applications of OpenAI and automation workflows
