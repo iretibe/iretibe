@@ -1,11 +1,29 @@
 # Somad Yessoufou
 
-Senior Software Engineer | Enterprise Systems Architect
+C# | .NET | Distributed Systems | Cloud | AI
 
-I design and build **mission-critical enterprise platforms** in logistics intelligence, workflow automation, and real-time distributed systems.
+⭐ FEATURED PROJECTS
 
-Specialized in:
-- Fleet & logistics intelligence systems (IoT + GPS + real-time tracking)
-- Procurement & workflow governance platforms (GovTech systems)
-- Event-driven distributed architectures
-- .NET enterprise SaaS systems
+## ParkLink
+Distributed Event-Driven Architecture
+.NET | Aspire | RabbitMQ | SQL | Docker
+
+## Haulix
+Real-Time Fleet Platform
+.NET | Blazor | SignalR | GPS | Azure
+
+## OrderStream
+Cloud-Native Microservices
+.NET | Docker | Kubernetes | AKS
+
+## Procurax
+Enterprise Workflow Platform
+.NET | SQL | Messaging | RBAC
+
+## BizBot
+AI Customer Support
+.NET | AI | RAG | APIs
+
+Identity Platform
+OAuth2 / OIDC
+.NET | Duende | IdentityServer
