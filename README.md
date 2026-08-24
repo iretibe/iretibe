@@ -1,6 +1,6 @@
 # Somad Yessoufou
 
-C# | .NET | Distributed Systems | Cloud | AI
+Senior Backend Engineer | C# / .NET | Distributed Systems | Cloud | AI
 
 ⭐ FEATURED PROJECTS
 
@@ -23,7 +23,6 @@ Enterprise Workflow Platform
 ## BizBot
 AI Customer Support
 .NET | AI | RAG | APIs
-
 Identity Platform
 OAuth2 / OIDC
 .NET | Duende | IdentityServer
